@@ -32,15 +32,17 @@ TubeDownloader is a Python-based software that allows you to easily download You
 3.**Select the desired video quality.**
 
 4.**Click the "Download" button to initiate the download.**
+
 5. **The downloaded video will be saved in the specified download directory.**
 
 ## Converting to Executable (.exe)
-You can convert the TubeDownloader Python program into a standalone executable file (.exe) using pyinstaller. This allows users to run the program without requiring a Python environment. Follow these steps to create the .exe file:
+You can convert the TubeDownloader Python program into a standalone executable file (.exe) using pyinstaller.
+This allows users to run the program without requiring a Python environment. Follow these steps to create the .exe file:
 
 1.*Open a command prompt or terminal.*
 
 2.*Navigate to the TubeDownloader directory:*
-    ```bash
+     ```bash
     cd path/to/TubeDownloader
 
 3. *Install pyinstaller if you haven't already:*

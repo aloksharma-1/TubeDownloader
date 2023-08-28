@@ -32,7 +32,6 @@ TubeDownloader is a Python-based software that allows you to easily download You
 3.**Select the desired video quality.**
 
 4.**Click the "Download" button to initiate the download.**
-
 5. **The downloaded video will be saved in the specified download directory.**
 
 ## Converting to Executable (.exe)

@@ -43,7 +43,8 @@ This allows users to run the program without requiring a Python environment. Fol
 
 2.*Navigate to the TubeDownloader directory:*
           ```bash
-    cd path/to/TubeDownloader
+          cd path/to/TubeDownloader
+    
 
 3. *Install pyinstaller if you haven't already:*
      ```bash
@@ -63,12 +64,16 @@ This allows users to run the program without requiring a Python environment. Fol
 
 ## Contributing
 Contributions are welcome! Feel free to open issues and submit pull requests to enhance the functionality of TubeDownloader.
+
 ## License
 This project is licensed under the <ins>MIT License.</ins>
 
 ## Contact
 For any inquiries or feedback, please contact <ins>alok2910472@gmail.com</ins>.
+
 ## Acknowledgments
 <ins>pytube</ins> - Python library for downloading YouTube videos.
+
 <ins>Font Awesome</ins> - Icons used in the application.
+
 Gradient Background - Gradient color scheme for the user interface.

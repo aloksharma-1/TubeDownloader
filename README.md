@@ -22,4 +22,8 @@ TubeDownloader is a Python-based software that allows you to easily download You
 
    ```bash
    pip install pytube
-Run the TubeDownloader software:
+   
+1. **Run the TubeDownloader software:**
+   ```bash
+   python tubedownloader.py
+

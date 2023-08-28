@@ -42,7 +42,7 @@ This allows users to run the program without requiring a Python environment. Fol
 1.*Open a command prompt or terminal.*
 
 2.*Navigate to the TubeDownloader directory:*
-     ```bash
+          ```bash
     cd path/to/TubeDownloader
 
 3. *Install pyinstaller if you haven't already:*
@@ -52,8 +52,8 @@ This allows users to run the program without requiring a Python environment. Fol
       ```bash
    pyinstaller --onefile tubedownloader.py
 **The --onefile flag packages everything into a single executable.**
-**The --noconsole flag suppresses the console window.**
 
+**The --noconsole flag suppresses the console window.**
 
 5. *The executable will be located in the dist directory. You can distribute this .exe file to users who don't have Python installed.*
 

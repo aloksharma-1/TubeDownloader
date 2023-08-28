@@ -42,16 +42,18 @@ You can convert the TubeDownloader Python program into a standalone executable f
 
 2.*Navigate to the TubeDownloader directory:*
     ```bash
-cd path/to/TubeDownloader
+    cd path/to/TubeDownloader
 
 3. *Install pyinstaller if you haven't already:*
      ```bash
-   pip install pyinstaller
+    pip install pyinstaller
 4. *Run the following command to create the executable:*
       ```bash
    pyinstaller --onefile tubedownloader.py
 **The --onefile flag packages everything into a single executable.**
 **The --noconsole flag suppresses the console window.**
+
+
 5. *The executable will be located in the dist directory. You can distribute this .exe file to users who don't have Python installed.*
 
 **Note: The conversion process may take some time, and the resulting executable might be relatively large due to packaging the Python interpreter and necessary libraries.**
@@ -62,3 +64,10 @@ cd path/to/TubeDownloader
 Contributions are welcome! Feel free to open issues and submit pull requests to enhance the functionality of TubeDownloader.
 ## License
 This project is licensed under the <ins>MIT License.</ins>
+
+## Contact
+For any inquiries or feedback, please contact <ins>alok2910472@gmail.com</ins>.
+## Acknowledgments
+<ins>pytube</ins> - Python library for downloading YouTube videos.
+<ins>Font Awesome</ins> - Icons used in the application.
+Gradient Background - Gradient color scheme for the user interface.

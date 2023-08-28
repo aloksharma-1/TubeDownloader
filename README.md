@@ -1,13 +1,8 @@
-
-Certainly! Here's a combined and polished version of your README file that includes the program information, usage instructions, conversion to an executable (.exe) guide, and acknowledgments:
-
-markdown
-Copy code
 # TubeDownloader - YouTube Video Downloader
 
 TubeDownloader is a Python-based software that allows you to easily download YouTube videos right to your local machine. With TubeDownloader, you can save your favorite videos for offline viewing and convenience.
 
-[![TubeDownloader Logo](/path/to/logo.png)](https://github.com/aloksharma-1/TubeDownloader/blob/main/icon.ico)
+(https://github.com/aloksharma-1/TubeDownloader/blob/main/icon.ico)
 
 ## Features
 
@@ -33,9 +28,11 @@ TubeDownloader is a Python-based software that allows you to easily download You
 ## Navigate to the project directory:
 
 ```bash
-cd TubeDownloader 
-Install required dependencies:
+ cd TubeDownloader
 ```bash
+
+## Install required dependencies:
+
 pip install pytube
 Usage
 Run the TubeDownloader software:

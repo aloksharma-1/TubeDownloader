@@ -7,7 +7,7 @@ Copy code
 
 TubeDownloader is a Python-based software that allows you to easily download YouTube videos right to your local machine. With TubeDownloader, you can save your favorite videos for offline viewing and convenience.
 
-![TubeDownloader Logo](/path/to/logo.png)
+[![TubeDownloader Logo](/path/to/logo.png)](https://github.com/aloksharma-1/TubeDownloader/blob/main/icon.ico)
 
 ## Features
 
